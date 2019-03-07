@@ -1,0 +1,1 @@
+exports.db_password = process.env.DB_password;
